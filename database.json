@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "user_id": "USR-E3F77FA3",
+      "name": "Campus Admin",
+      "email": "admin@campus.edu",
+      "password_hash": "33c2c41cc68b3a1c7f75ea3313d5dc32f0707f9b1cee13ea3503af807bfc8f6e",
+      "salt": "61e8fd3a94c68c608c724d61fab9f10d",
+      "role": "admin",
+      "is_active": true
+    },
+    {
+      "user_id": "USR-C8A3181F",
+      "name": "vikas",
+      "email": "vikas@college.ac.in",
+      "password_hash": "e9558308e6526ffeb4539222feadc6409d57d370ca51b7e5797d5d106a323f89",
+      "salt": "4db1343a6eba2c573a91031ddda87a2f",
+      "role": "student",
+      "is_active": true
+    }
+  ],
+  "courses": []
+}

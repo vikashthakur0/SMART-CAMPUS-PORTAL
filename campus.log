@@ -1,0 +1,2 @@
+2026-09-30 01:12:33,110 INFO auth_service: Registered new student: vikas@college.ac.in
+2026-09-30 01:13:00,256 INFO auth_service: Login OK: vikas@college.ac.in (student)
